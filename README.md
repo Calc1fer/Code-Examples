@@ -32,4 +32,8 @@ A showcase example of the tool using different world aesthetics is available her
 https://youtu.be/2uvgioMW0-4 (written in C#, Unity)
 
 
+Game Mechanic Project:
+This project focused on implementing a game mechanic, in this case an ice ball throwing ability which damages enemies. It was created in Unreal Engine 5. The project showcases clean code, an implementation of animations and an 8-directional movement system. A good demonstration of what this project does can be viewed here: https://youtu.be/fxS9TrClyIk (written in C++)
+
+
 
